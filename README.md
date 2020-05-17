@@ -1,4 +1,3 @@
 # colinlesser.github.io
 
-Personal website to showcase my background and skills. Can be accessed here: 
-<a href="https://colinlesser.github.io">https://colinlesser.github.io </a>
+Personal website to showcase my background and skills. View it  <a href="https://colinlesser.github.io"> HERE</a>
